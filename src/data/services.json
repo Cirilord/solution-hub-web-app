@@ -1,0 +1,59 @@
+[
+    {
+        "content": "Personalizamos soluções de análise de dados que atendem às necessidades específicas do seu negócio.",
+        "id": 1,
+        "items": [
+            {
+                "content": "Identificação de métricas-chave para monitorar o desempenho.",
+                "id": 1
+            },
+            {
+                "content": "Desenvolvimento de dashboards interativos para acompanhamento em tempo real.",
+                "id": 2
+            },
+            {
+                "content": "Análise de dados de clientes para melhorar campanhas de marketing.",
+                "id": 3
+            }
+        ],
+        "title": "Consultoria em Análise de Dados"
+    },
+    {
+        "content": "Nossa equipe ajuda você a escolher e implementar as ferramentas certas para coletar e analisar dados.",
+        "id": 2,
+        "items": [
+            {
+                "content": "Configuração personalizada das ferramentas para atender às suas necessidades.",
+                "id": 1
+            },
+            {
+                "content": "Treinamento da equipe para usar as ferramentas de forma eficaz.",
+                "id": 2
+            },
+            {
+                "content": "Suporte contínuo para garantir que você esteja extraindo o máximo dos seus dados.",
+                "id": 3
+            }
+        ],
+        "title": "Implementação de Ferramentas de Análise de Dados"
+    },
+    {
+        "content": "Transformamos dados brutos em insights acionáveis.",
+        "id": 3,
+        "items": [
+            {
+                "content": "Relatórios mensais de desempenho.",
+                "id": 1
+            },
+            {
+                "content": "Insights sobre tendências de mercado e comportamento do cliente.",
+                "id": 2
+            },
+            {
+                "content": "Recomendações de ações para otimizar resultados.",
+                "id": 3
+            }
+        ],
+        "title": "Análise de Dados Personalizada e Relatórios"
+    }
+]
